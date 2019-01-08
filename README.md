@@ -23,3 +23,5 @@ ipfs-npm install
 ```
 ipfs-npm run demo
 ```
+
+注意：对于常见的库可以找到，但是对于一些依赖比较多的项目，会有不少库找不到，这导致ipfs-npm目前还基本不能实用。
