@@ -16,6 +16,8 @@ npm install -g ipfs-npm
 ipfs-npm install
 ```
 
+相对于正常的`npm`来说，速度还是太慢了，慢几十倍。
+
 运行：
 
 ```
